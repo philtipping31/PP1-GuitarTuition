@@ -21,7 +21,16 @@ body {
 
 /* Header */
 header {
-    background-color: beige;
+    background-color: rgb(225, 225, 182);
+}
+
+nav {
+    background-color: black;
+}
+
+nav a {
+    color: whitesmoke;
+    
 }
 
 /* Main Content */
