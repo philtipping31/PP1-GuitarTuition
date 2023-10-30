@@ -18,14 +18,14 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    color: rgb(3, 3, 83);
+    color: rgb(215, 206, 152);
     text-decoration: none;
 }
 
 
 /* Header */
 header {
-    background-color: rgb(226, 219, 173);
+    background-color: rgb(2, 2, 53);
     padding: 10px;
     position: fixed;
     z-index: 99;
@@ -53,7 +53,8 @@ header a {
 }
 
 #navmenu a {
-    color: rgb(3, 3, 83);
+    color: rgb(2, 2, 53);
+    ;
     text-decoration: none;
     font-size: 115%;
 }
@@ -63,7 +64,6 @@ header a {
 }
 
 .active {
-    /* NOT WORKING? */
     font-size: 125%;
 }
 
@@ -98,7 +98,8 @@ main {
 
 /* Footer */
 footer {
-    background-color: rgb(3, 3, 83);
+    background-color: rgb(2, 2, 53);
+    ;
     color: white;
 
 }
@@ -114,5 +115,5 @@ footer {
 #social-links i {
     font-size: 150%;
     padding: 5px;
-    color: rgb(226, 219, 173);
+    color: rgb(215, 206, 152);
 }
