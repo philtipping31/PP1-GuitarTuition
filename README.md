@@ -106,7 +106,7 @@ In this section you need to reference where you got your content, media and extr
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
-I used https://www.figma.com/google-fonts/montserrat-font-pairings/ to help with good font pairing options.
+I used [Figma](https://www.figma.com/google-fonts/montserrat-font-pairings/) to help with good font pairing options.
 
 ### Content
 

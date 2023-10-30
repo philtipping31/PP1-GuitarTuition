@@ -16,22 +16,21 @@ body {
     font-family: 'Hind', sans-serif;
 }
 
-
-
-/* Header */
-header {
-    background-color: rgb(225, 225, 182);
-}
-
 h1 {
     font-family: 'Montserrat',
         sans-serif;
 }
 
-nav {
-    background-color: black;
-}
 
+/* Header */
+header {
+    background-color: whitesmoke;
+    padding: 0 2rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 1px 2px darkgray;
+}
 
 nav>a {
     text-decoration: none;
@@ -46,13 +45,13 @@ nav>a:hover {
 
 /* Main Content */
 main {
-    background-color: darkolivegreen;
+    background-color: beige;
     /* Push footer all the way down */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: black;
-    color: whitesmoke;
+    background-color: white;
+    color: darkgray;
 }
