@@ -26,14 +26,16 @@ h1 {
 /* Header */
 header {
     background-color: rgb(226, 219, 173);
-    padding: 10px 5px;
+    padding: 10px;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 2px;
     display: flex;
-    justify-content: space-between align-items: baseline;
+    justify-content: space-between;
+    align-items: baseline;
 }
+
 
 header i {
     padding: 5px 10px;
@@ -97,4 +99,19 @@ main {
 footer {
     background-color: rgb(3, 3, 83);
     color: white;
+
+}
+
+#social-links {
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-links i {
+    font-size: 150%;
+    padding: 5px;
+    color: rgb(226, 219, 173);
 }
