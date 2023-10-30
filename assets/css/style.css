@@ -18,31 +18,58 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    color: black;
-
+    color: rgb(3, 3, 83);
+    text-decoration: none;
+    font-size: 215%;
 }
 
 
 /* Header */
 header {
-    background-color: whitesmoke;
+    background-color: beige;
     padding: 0 2rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 1px 2px darkgray;
+    box-shadow: 0 1px 2px;
     text-align: center;
 }
 
+header a {
+    text-decoration: none;
+}
+
+/* Nav bar */
+
+#navmenu {
+    list-style-type: none;
+}
+
+#navmenu a {
+    color: rgb(3, 3, 83);
+    text-decoration: none;
+    font-size: 115%;
+}
+
+#navmenu a:hover {
+    font-size: 125%;
+}
+
+.active {
+    /* NOT WORKING? */
+    font-size: 125%;
+}
+
+
 /* Main Content */
 main {
-    background-color: beige;
+    background-color: white;
     /* Push footer all the way down */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: white;
-    color: darkgray;
+    background-color: rgb(3, 3, 83);
+    color: white;
 }
