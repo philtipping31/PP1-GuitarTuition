@@ -17,8 +17,9 @@ body {
 }
 
 h1 {
-    font-family: 'Montserrat',
-        sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+
 }
 
 
@@ -30,18 +31,8 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 2px darkgray;
+    text-align: center;
 }
-
-nav>a {
-    text-decoration: none;
-    color: whitesmoke;
-}
-
-nav>a:hover {
-    color: grey;
-}
-
-
 
 /* Main Content */
 main {
