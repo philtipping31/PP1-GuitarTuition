@@ -26,13 +26,16 @@ h1 {
 
 /* Header */
 header {
-    background-color: beige;
-    padding: 0 2rem;
+    background-color: rgb(226, 219, 173);
+    padding: 0 15px;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 2px;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
 }
 
 header a {
@@ -58,6 +61,21 @@ header a {
 .active {
     /* NOT WORKING? */
     font-size: 125%;
+}
+
+nav {
+    position: absolute;
+    background-color: beige;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 1px 2px;
+    left: 0;
+    display: none;
+    top: 100%;
+}
+
+#nav-toggle-open:checked~nav {
+    display: block;
 }
 
 
