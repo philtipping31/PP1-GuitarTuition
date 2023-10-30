@@ -22,6 +22,7 @@ header {
 /* Main Content */
 main {
     background-color: darkolivegreen;
+    /* Push footer all the way down */
     flex: 1 0 auto;
 }
 
