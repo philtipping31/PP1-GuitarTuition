@@ -35,6 +35,10 @@
   <body>
     <!-- Header -->
     <header>
+      <input type="checkbox" id="nav-toggle-open" name="nav-toggle-open" />
+      <label for="nav-toggle-open" class="nav-toggle-open-label"
+        ><i class="fa-solid fa-bars" style="color: #030353"></i
+      ></label>
       <a href="index.html">
         <h1><em>Guitar Tutors 'R' Us!</em></h1>
       </a>
@@ -42,14 +46,14 @@
       <!-- Nav bar -->
       <nav>
         <ul id="navmenu">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html" class="active">Home</a></li>
           <li>
             <a href="locations.html">Locations</a>
           </li>
-        <li>
-            <a href="form.html" class="active">Register Your Interest</a>
-        </li>
-        <li><a href="#socials">Social Media</a></li>
+          <li>
+            <a href="form.html">Register Your Interest</a>
+          </li>
+          <li><a href="#socials">Social Media</a></li>
           <li>
             <a href="#contact">Contact Us</a>
           </li>
@@ -58,9 +62,59 @@
     </header>
 
     <!-- Main Content -->
-    <main>Main Content</main>
+    <main id="guitarimage"></main>
 
     <!-- Footer -->
-    <footer id="socials">Footer</footer>
+    <footer id="socials">
+      <footer>
+        <ul id="social-links">
+          <li>
+            <a
+              href="https://www.facebook.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Facebook page (opens in a new tab)"
+            >
+              <i class="fa-brands fa-facebook"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.twitter.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Twitter page (opens in a new tab)"
+            >
+              <i class="fa-brands fa-twitter-square"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our YouTube page (opens in a new tab)"
+            >
+              <i class="fa-brands fa-youtube-square"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="Visit our Instagram page (opens in a new tab)"
+            >
+              <i class="fa-brands fa-instagram"></i
+            ></a>
+          </li>
+        </ul>
+      </footer>
+    </footer>
+
+    <script
+      src="https://kit.fontawesome.com/a66e85d117.js"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
