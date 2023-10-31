@@ -25,7 +25,7 @@ h1 {
 
 /* Header */
 header {
-    background-color: rgb(2, 2, 53);
+    background-color: black;
     padding: 10px;
     position: fixed;
     z-index: 99;
@@ -90,7 +90,7 @@ nav {
 /* Top image */
 
 #guitarimage {
-    background: url("../images/pexels-north-1407322.jpg") no-repeat center center/cover;
+    background: url("../images/pexels-del-adams-2444860.jpg") no-repeat center center/cover;
     height: 200px;
     width: 100%;
 }
@@ -104,11 +104,11 @@ main {
 }
 
 .maincontent {
+    background-color: black;
     color: rgb(215, 206, 152);
 }
 
 .maincontent h2 {
-    text-transform: uppercase;
     text-decoration: underline;
 }
 
@@ -118,14 +118,15 @@ main {
     width: 100%;
 }
 
-.blue-background {
-    background-color: rgb(2, 2, 53);
+.beige-background {
+    background-color: rgb(215, 206, 152);
+    color: black;
 }
 
 
 /* Footer */
 footer {
-    background-color: rgb(2, 2, 53);
+    background-color: black;
     ;
     color: white;
 
