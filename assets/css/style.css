@@ -46,11 +46,6 @@ header a {
     text-decoration: none;
 }
 
-#guitarimage {
-    background: url("../images/pexels-north-1407322.jpg") no-repeat center center/cover;
-    height: 150px;
-    width: 100%;
-}
 
 /* Nav bar */
 
@@ -95,12 +90,21 @@ nav {
 
 /* Main Content */
 main {
-    background-color: white;
     /* Push footer all the way down */
     flex: 1 0 auto;
     margin-top: 60px;
 }
 
+.maincontent {
+    text-transform: uppercase;
+    color: rgb(215, 206, 152);
+}
+
+#guitarimage {
+    background: url("../images/pexels-north-1407322.jpg") no-repeat center center/cover;
+    height: 150px;
+    width: 100%;
+}
 
 /* Footer */
 footer {
