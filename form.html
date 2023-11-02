@@ -14,7 +14,7 @@
       content="guitar tuition, guitar lessons, music lessons, UK, booking, guitars, music"
     />
     <!-- Title -->
-    <title>Guitar Tutors 'R' Us!</title>
+    <title>The Guitar Guru's</title>
     <!-- Favicon -->
     <link
       rel="icon"
@@ -37,32 +37,40 @@
     <header>
       <input type="checkbox" id="nav-toggle-open" name="nav-toggle-open" />
       <label for="nav-toggle-open" class="nav-toggle-open-label"
-        ><i class="fa-solid fa-bars" style="color: #030353"></i
+        ><i class="fa-solid fa-bars" style="color: #d7ce98"></i
       ></label>
       <a href="index.html">
-        <h1><em>Guitar Tutors 'R' Us!</em></h1>
+        <h1><em>The Guitar Guru's</em></h1>
       </a>
 
       <!-- Nav bar -->
       <nav>
         <ul id="navmenu">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html" class="active">Home</a></li>
           <li>
-            <a href="locations.html">Locations</a>
+            <a href="locations.html" aria-label="go to locations page"
+              >Locations</a
+            >
           </li>
           <li>
-            <a href="form.html" class="active">Register Your Interest</a>
+            <a href="form.html" aria-label="go to register your interest page"
+              >Register Your Interest</a
+            >
           </li>
-          <li><a href="#socials">Social Media</a></li>
+          <li><a href="#socials" aria-label="go to footer">Social Media</a></li>
           <li>
-            <a href="#contact">Contact Us</a>
+            <a href="#contact" aria-label="go to contact us section"
+              >Contact Us</a
+            >
           </li>
         </ul>
       </nav>
     </header>
 
     <!-- Main Content -->
-    <main></main>
+    <main class="maincontent">
+      <div id="guitarimage"></div>
+    </main>
 
     <!-- Footer -->
     <footer id="socials">
