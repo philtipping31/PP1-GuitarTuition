@@ -51,13 +51,13 @@ header a {
 
 #navmenu {
     list-style-type: none;
+    background-color: rgb(0, 0, 0, 0.5);
 }
 
 #navmenu a {
-    color: rgb(2, 2, 53);
+    color: rgb(215, 206, 152);
     ;
     text-decoration: none;
-    font-size: 115%;
 }
 
 #navmenu a:hover {
@@ -65,12 +65,12 @@ header a {
 }
 
 .active {
-    font-size: 125%;
+    border-bottom: 1px solid rgb(215, 206, 152);
 }
 
 nav {
     position: absolute;
-    background-color: beige;
+    color: rgb(215, 206, 152);
     padding: 15px;
     width: 100%;
     box-shadow: 0 1px 2px;
@@ -97,7 +97,7 @@ nav {
 
 #acousticguitar {
     background: url("../images/pexels-pixabay-210766.jpg") no-repeat center center/cover;
-    height: 200px;
+    height: 300px;
     width: 100%;
 }
 
@@ -155,3 +155,28 @@ footer {
     color: rgb(215, 206, 152);
 }
 
+/* Media query: for tablets and larger (768px plus) */
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        color: rgb(215, 206, 152);
+        background-color: none;
+    }
+
+    #navmenu {
+        display: flex;
+    }
+
+    #navmenu>li {
+        padding-left: 1rem;
+        text-align: center;
+    }
+
+    .nav-toggle-open-label {
+        display: none;
+    }
+}
