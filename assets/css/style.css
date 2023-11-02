@@ -122,15 +122,17 @@ main {
     text-decoration: underline;
 }
 
-.maincontent div {
-    padding: 5px;
-    width: 100%;
-}
 
 .beige-background {
     background-color: rgb(215, 206, 152);
     color: black;
-    padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
 }
 
 .text-center {
@@ -141,7 +143,7 @@ main {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 90%;
+    width: 95%;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
@@ -153,15 +155,21 @@ main {
     margin-top: 10px;
 }
 
+.overview div {
+    margin: 20px;
+}
+
 .contact-us {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 90%;
+    width: 95%;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
 }
+
+
 
 
 /* Footer */
@@ -216,6 +224,7 @@ footer {
         grid-template-columns: repeat(2, 1fr);
 
     }
+
 }
 
 /* Media query: for larger screens (1024px plus) */
