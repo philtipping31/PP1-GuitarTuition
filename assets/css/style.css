@@ -95,6 +95,12 @@ nav {
     width: 100%;
 }
 
+#acousticguitar {
+    background: url("../images/pexels-pixabay-210766.jpg") no-repeat center center/cover;
+    height: 200px;
+    width: 100%;
+}
+
 
 /* Main Content */
 main {
@@ -103,9 +109,10 @@ main {
     margin-top: 50px;
 }
 
-.maincontent {
+.black-background {
     background-color: black;
     color: rgb(215, 206, 152);
+
 }
 
 .maincontent h2 {
@@ -113,8 +120,7 @@ main {
 }
 
 .maincontent div {
-    padding: 0 5px;
-    height: 200px;
+    padding: 5px;
     width: 100%;
 }
 
