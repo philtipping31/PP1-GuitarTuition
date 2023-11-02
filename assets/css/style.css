@@ -101,6 +101,10 @@ nav {
     width: 100%;
 }
 
+.list-style-none {
+    list-style-type: none;
+}
+
 
 /* Main Content */
 main {
@@ -126,6 +130,7 @@ main {
 .beige-background {
     background-color: rgb(215, 206, 152);
     color: black;
+    padding: 5px;
 }
 
 .text-center {
@@ -145,6 +150,17 @@ main {
 .overview {
     flex-basis: 200px;
     flex-grow: 1;
+    margin-top: 10px;
+}
+
+.contact-us {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
 }
 
 
@@ -194,4 +210,20 @@ footer {
     .nav-toggle-open-label {
         display: none;
     }
+
+    .overview {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+}
+
+/* Media query: for larger screens (1024px plus) */
+@media screen and (min-width: 1024px) {
+    .overview {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+
+    }
+
 }
