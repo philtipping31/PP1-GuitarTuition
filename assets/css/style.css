@@ -112,7 +112,6 @@ main {
 .black-background {
     background-color: black;
     color: rgb(215, 206, 152);
-
 }
 
 .maincontent h2 {
@@ -127,6 +126,10 @@ main {
 .beige-background {
     background-color: rgb(215, 206, 152);
     color: black;
+}
+
+.text-center {
+    text-align: center;
 }
 
 
