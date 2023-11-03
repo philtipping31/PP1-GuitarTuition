@@ -60,6 +60,10 @@ header a {
     text-decoration: none;
 }
 
+#navmenu li {
+    padding: 5px;
+}
+
 #navmenu a:hover {
     border-bottom: 1px solid rgb(215, 206, 152);
 }
@@ -120,6 +124,7 @@ main {
     /* Push footer all the way down */
     flex: 1 0 auto;
     margin-top: 50px;
+
 }
 
 .text-center {
@@ -183,8 +188,13 @@ main {
 
 /* Form */
 
-#enquire {
+#enquiry-bg {
     background-image: url(../images/pexels-anna-shvets-3987249.jpg);
+    background-size: cover;
+
+}
+
+#enquire {
     background-size: cover;
     display: flex;
     justify-content: center;
