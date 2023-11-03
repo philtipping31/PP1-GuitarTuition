@@ -148,6 +148,8 @@ main {
     text-align: center;
 }
 
+/* Home Page */
+
 #about-us {
     margin: auto;
     margin-top: 10px;
@@ -178,6 +180,36 @@ main {
     text-align: center;
 }
 
+/* Form */
+
+#enquire {
+    background-image: url(../images/pexels-karolina-grabowska-4471890.jpg);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+    color: rgb(215, 206, 152);
+}
+
+#enquire h2 {
+    text-align: center;
+}
+
+#enquiry-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: rgb(215, 206, 152);
+    color: black;
+}
 
 
 
