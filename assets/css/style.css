@@ -61,7 +61,7 @@ header a {
 }
 
 #navmenu a:hover {
-    font-size: 125%;
+    border-bottom: 1px solid rgb(215, 206, 152);
 }
 
 .active {
