@@ -51,7 +51,7 @@ header a {
 
 #navmenu {
     list-style-type: none;
-    background-color: rgb(0, 0, 0, 0.5);
+    background-color: rgb(0, 0, 0, 0.6);
 }
 
 #navmenu a {
@@ -186,7 +186,7 @@ main {
     background-image: url(../images/pexels-karolina-grabowska-4471890.jpg);
     background-size: cover;
     background-position: 75%;
-    padding: 20px 10% 0 10%;
+    padding: 20px 10%;
     flex-grow: 1;
     color: rgb(215, 206, 152);
 }
@@ -195,20 +195,37 @@ main {
     text-align: center;
 }
 
-#enquiry-form {
-    color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
+#enquire h3 {
+    text-decoration: underline;
 }
 
+#enquiry-form {
+    color: whitesmoke;
+    background-color: rgba(60, 60, 60, 0.7);
+    padding: 35px;
+
+}
+
+input[type='radio'] {
+    accent-color: #D7CE98;
+}
 
 .submit-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 15px 30px;
     font-size: 100%;
     background-color: rgb(215, 206, 152);
     color: black;
+}
+
+.submit-button:hover {
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-size: 100%;
+    background-color: black;
+    color: rgb(215, 206, 152);
 }
 
 
