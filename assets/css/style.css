@@ -122,6 +122,12 @@ main {
     margin-top: 50px;
 }
 
+.text-center {
+    text-align: center;
+}
+
+/* Home Page */
+
 .black-background {
     background-color: black;
     color: rgb(215, 206, 152);
@@ -144,11 +150,6 @@ main {
     text-align: center;
 }
 
-.text-center {
-    text-align: center;
-}
-
-/* Home Page */
 
 #about-us {
     margin: auto;
@@ -183,12 +184,16 @@ main {
 /* Form */
 
 #enquire {
-    background-image: url(../images/pexels-karolina-grabowska-4471890.jpg);
+    background-image: url(../images/pexels-anna-shvets-3987249.jpg);
     background-size: cover;
-    background-position: 75%;
-    padding: 20px 10%;
-    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     color: rgb(215, 206, 152);
+    height: 100%;
 }
 
 #enquire h2 {
@@ -201,8 +206,9 @@ main {
 
 #enquiry-form {
     color: whitesmoke;
-    background-color: rgba(60, 60, 60, 0.7);
+    background-color: rgba(60, 60, 60, 0.8);
     padding: 35px;
+    margin-top: 25px;
 
 }
 
@@ -227,6 +233,11 @@ input[type='radio'] {
     background-color: black;
     color: rgb(215, 206, 152);
 }
+
+
+/* Locations */
+
+
 
 
 
