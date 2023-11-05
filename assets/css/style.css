@@ -248,7 +248,8 @@ input[type='radio'] {
     position: relative;
     text-align: center;
     color: white;
-    font-size: 350%;
+    font-size: 300%;
+
 }
 
 /* Centered text */
@@ -347,6 +348,12 @@ footer {
     }
 
     .overview {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+    #locations {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
 
