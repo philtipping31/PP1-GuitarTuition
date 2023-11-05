@@ -244,6 +244,20 @@ input[type='radio'] {
 
 /* Locations */
 
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 350%;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 
 
