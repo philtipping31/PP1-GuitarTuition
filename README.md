@@ -1,10 +1,8 @@
-# Guitar Tuition
+# The Guitar Guru's
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club.
 
-![Responsice Mockup]
+![Responsive Mockup]
 
 ## Features
 
@@ -26,19 +24,23 @@ In this section, you should go over the different parts of your project, and des
 
 ![Landing Page]
 
-- __Ethos Section__
+- __About Us section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-
-![Club Ethos]
-
-- __Meetup Times section__
+- __Locations__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
   - This section will be updated as these times change to keep the user up to date.
 
+![Locations]
+
+- __Register your interest__
+
+
+
 ![Meetup Times]
+
+
+
 
 - __The Footer__
 
