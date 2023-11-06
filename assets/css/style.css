@@ -97,6 +97,7 @@ nav {
     background: url("../images/pexels-del-adams-2444860.jpg") no-repeat center center/cover;
     height: 45vh;
     width: 100%;
+    position: relative;
 }
 
 /*  Home Middle Image */
@@ -132,6 +133,14 @@ main {
 }
 
 /* Home Page */
+
+#welcome {
+    color: rgb(215, 206, 152);
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
 
 .black-background {
     background-color: black;
@@ -262,6 +271,8 @@ input[type='radio'] {
 
 
 
+
+
 /* Images */
 
 #birmingham {
@@ -357,6 +368,10 @@ footer {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
 
+    }
+
+    #welcome {
+        font-size: 200%;
     }
 
 }
