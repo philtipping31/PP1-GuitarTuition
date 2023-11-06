@@ -266,37 +266,37 @@ input[type='radio'] {
 
 #birmingham {
     background: url("../images/birmingham.jpg") no-repeat center center/cover;
-    height: 30vh;
+    height: 40vh;
     width: 100%;
 }
 
 #bristol {
     background: url("../images/bristol.jpg") no-repeat center center/cover;
-    height: 30vh;
+    height: 40vh;
     width: 100%;
 }
 
 #liverpool {
-    background: url("../images/liverpool.jpg") no-repeat center center/cover;
-    height: 30vh;
+    background: url("../images/liverpool2.jpg") no-repeat center center/cover;
+    height: 40vh;
     width: 100%;
 }
 
 #london {
     background: url("../images/london.jpg") no-repeat center center/cover;
-    height: 30vh;
+    height: 40vh;
     width: 100%;
 }
 
 #manchester {
     background: url("../images/manchesterl.jpg") no-repeat center center/cover;
-    height: 30vh;
+    height: 40vh;
     width: 100%;
 }
 
 #southampton {
     background: url("../images/southampton.jpg") no-repeat center center/cover;
-    height: 30vh;
+    height: 40vh;
     width: 100%;
 }
 
