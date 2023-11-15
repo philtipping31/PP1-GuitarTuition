@@ -1,5 +1,7 @@
 # The Guitar Guru's
 
+- The Guitar Guru's website is a responsive website including all skills learnt throughout the course so far. It is a modern website that is providing a service for people that are interested in the learning the guitar. It is advertised for all ages and abilities. It also offers a mixture of in person and online lessons to suit all customers.
+- The website provides information to the user on what we offer, where we offer it and how we offer it. This will then give them all the information they need to decide whether or not they want to register their interest with us.
 
 
 ![Responsive Mockup]
@@ -19,19 +21,27 @@
 
   - The landing "Hero" image shows a black and white photo of someone playing the guitar with overlay text. This seperates the nav bar with the main content allowing flow and ease of reading on the website. 
   - This image is also shown on the "Locations" page for consistency on the web page.
+  - The nav bar on mobile and larger screens shows the user the page they are on with an underline on the text.
+  - On larger screens users can hover over a link which will underline temporarily showing them they can interact with the link.
 
 ![Landing Page]
 
 - __About Us section__
 
-- This section shows in a responsive grid view with icons and text. These are short and snappy bits of information to show the reader some important aspects of the Guitar Guru's and what they offer. 
+- The about us section is visibile on the landing page, clearly stating what the website is about and what it offers the reader. This helps the user know if they are in the right place for what they are wanting to achieve based on their search.
 
+![About us]
 
-
-
+- 
 __Home Page images__
 
+- Keeping with the theme of black and white images on the home page. I used full width images to break up sections to improve user experience on the website.
+
 __Overview__
+
+- This section shows in a responsive grid view with icons and text. These are short and snappy bits of information to show the reader some important aspects of the Guitar Guru's and what they offer. 
+
+![Overview]
 
 - __The Footer__
 
@@ -52,23 +62,47 @@ __Overview__
 
 __Register Your Interest__
 
-
+- This page has a form where anyone who is interested in signing up for lessons can fill in and submit. It has a mixture of text and radio button options which have been colured accordingly to the style. 
+- The main "Get in Touch" button has a hover affect showing the user that is interactive.
+- 
 
 ![Form]
 
 ### Features Left to Implement
 
-- Another feature idea
+- I'd like to make the locations page more interactive, taking the user to a dedicated page for the specific location they selected. This would then show them more detail around the location, including: Address, Contact Details, Tutors details. 
+- 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I have tested this website using Chrome Dev Tools and viewing the page on different screen sizes to ensure that the website is responsive.
+  
+- I deployed the page to github in the early stages to monitor any hidden issues that were not showing on the browser preview.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+__Nav Bar__
+  
+Does the Nav Bar dropdown work on mobile devices correctly and show all content. Does the page the user is current on show as underlined.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Does the Nav Bar toggle work smoothly when looking at the site from Tablet view and smaller?
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Do all links take you to the correct page and does the 'Contact Us' button, take you to the 'Contact us' section on the Home page?
+
+__Locations__
+
+- Does the grid view react responsively on all screen sizes. Ensuring the images and text are displayed nicely and visible.
+
+__Register your interest Form__
+
+Please fill out the form correctly except do not enter your First Name. Try to Submit, and verify there is an error message.
+
+Please fill out the form correctly except do not enter your Last Name. Try to Submit, and verify there is an error message.
+
+Please fill out the form correctly except do not enter your email address, or enter an invalid email address. Try to Submit, and verify there is an error message.
+
+__Social Links__
+
+Click on the Facebook, Twitter, Youtube and Instagram Icon in the footer and confirm it opens up the correct social page in a new tab.
+
 
 ### Validator Testing
 
@@ -79,18 +113,18 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+
 
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- The site was deployed to GitHub pages during the creation of the site. During the learning time deploying the project earlier was advised. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <
+The live link can be found here - ![The Guitar Guru's] (https://philtipping31.github.io/PP1-TheGuitarGurus/)
 
 ## Credits
 
@@ -99,33 +133,12 @@ In this section you need to reference where you got your content, media and extr
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 - I used [Figma](https://www.figma.com/google-fonts/montserrat-font-pairings/) to help with good font pairing options.
+- My Mentor Alex Ford for giving great advise on different ways to implement images via view height. 
+- 
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The images were taken from both ![Pixabay] and ![Pexels]
+- Instructions on how to implement the grids for the overview and locations were from ![W3schools] (https://www.w3schools.com/css/css_grid.asp)
+- The icons througout the site were taken from [Font Awesome](https://fontawesome.com/)
 
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message
-  - Make sure to keep the messages in the imperative mood
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
