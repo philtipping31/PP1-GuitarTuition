@@ -6,65 +6,55 @@
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
-
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, it is responsive to different screen sizes. For smaller devices the menu is located in a hamburger icon to the left, clicking this shows the drop down.
+  - Larger screens will show the menu to the right in full text. 
+  - The navigation bar includes links to the Home page, Locations Page, Register page and quick link to the contact us section on the footer og the home page. The nav bar is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar]
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing "Hero" image shows a black and white photo of someone playing the guitar with overlay text. This seperates the nav bar with the main content allowing flow and ease of reading on the website. 
+  - This image is also shown on the "Locations" page for consistency on the web page.
 
 ![Landing Page]
 
 - __About Us section__
 
-- __Locations__
+- This section shows in a responsive grid view with icons and text. These are short and snappy bits of information to show the reader some important aspects of the Guitar Guru's and what they offer. 
+
+
+
+
+__Home Page images__
+
+__Overview__
+
+- __The Footer__
+
+  - The footer section includes links to the relevant social media sites for The Guitar Guru's website. The links will open to a new tab to allow easy navigation for the user.
+  - The footer is allowsthe user to see coomin icons and encourages them to keep connected via differen social media platforms.
+
+![Footer]
+
+- __OTHER PAGES__
+
+  - __Locations__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
   - This section will be updated as these times change to keep the user up to date.
 
 ![Locations]
 
-- __Register your interest__
+
+__Register Your Interest__
 
 
 
-![Meetup Times]
-
-
-
-
-- __The Footer__
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer]
-
-- __OTHER PAGES__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like.
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-
-![Gallery]
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-
-![Sign Up]
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Form]
 
 ### Features Left to Implement
 
