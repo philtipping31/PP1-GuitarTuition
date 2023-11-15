@@ -109,15 +109,11 @@ Click on the Facebook, Twitter, Youtube and Instagram Icon in the footer and con
 - HTML
   - No errors were returned when passing through the official [W3C validator]
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
-
-### Unfixed Bugs
-
+  - No errors were found when passing through the official [W3C CSS Validation Service]
 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 - The site was deployed to GitHub pages during the creation of the site. During the learning time deploying the project earlier was advised. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
@@ -133,7 +129,8 @@ In this section you need to reference where you got your content, media and extr
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 - I used [Figma](https://www.figma.com/google-fonts/montserrat-font-pairings/) to help with good font pairing options.
-- My Mentor Alex Ford for giving great advise on different ways to implement images via view height. 
+- My Mentor Alex Ford for giving great advise on different ways to implement images via view height. And just all round assitance.
+- Other students and community leaders on Slack
 - 
 
 ### Content
