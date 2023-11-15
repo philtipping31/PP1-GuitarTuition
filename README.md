@@ -32,27 +32,26 @@
 
 ![About us]
 
-- 
-__Home Page images__
+ __Home Page images__
 
 - Keeping with the theme of black and white images on the home page. I used full width images to break up sections to improve user experience on the website.
 
 __Overview__
-
+  
 - This section shows in a responsive grid view with icons and text. These are short and snappy bits of information to show the reader some important aspects of the Guitar Guru's and what they offer. 
 
 ![Overview]
 
-- __The Footer__
+__The Footer__
 
   - The footer section includes links to the relevant social media sites for The Guitar Guru's website. The links will open to a new tab to allow easy navigation for the user.
   - The footer is allowsthe user to see coomin icons and encourages them to keep connected via differen social media platforms.
 
 ![Footer]
 
-- __OTHER PAGES__
-
-  - __Locations__
+  ## Other Pages
+  
+  ### Locations
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
   - This section will be updated as these times change to keep the user up to date.
@@ -60,7 +59,7 @@ __Overview__
 ![Locations]
 
 
-__Register Your Interest__
+- ### Register Your Interest
 
 - This page has a form where anyone who is interested in signing up for lessons can fill in and submit. It has a mixture of text and radio button options which have been colured accordingly to the style. 
 - The main "Get in Touch" button has a hover affect showing the user that is interactive.
@@ -75,33 +74,35 @@ __Register Your Interest__
 
 ## Testing
 
+### General
+
 - I have tested this website using Chrome Dev Tools and viewing the page on different screen sizes to ensure that the website is responsive.
   
 - I deployed the page to github in the early stages to monitor any hidden issues that were not showing on the browser preview.
 
-__Nav Bar__
+### Nav Bar
   
-Does the Nav Bar dropdown work on mobile devices correctly and show all content. Does the page the user is current on show as underlined.
+- Does the Nav Bar dropdown work on mobile devices correctly and show all content. Does the page the user is current on show as underlined.
 
-Does the Nav Bar toggle work smoothly when looking at the site from Tablet view and smaller?
+- Does the Nav Bar toggle work smoothly when looking at the site from Tablet view and smaller?
 
-Do all links take you to the correct page and does the 'Contact Us' button, take you to the 'Contact us' section on the Home page?
+- Do all links take you to the correct page and does the 'Contact Us' button, take you to the 'Contact us' section on the Home page?
 
-__Locations__
+### Locations
 
 - Does the grid view react responsively on all screen sizes. Ensuring the images and text are displayed nicely and visible.
 
-__Register your interest Form__
+### Register your interest Form
 
-Please fill out the form correctly except do not enter your First Name. Try to Submit, and verify there is an error message.
+- Please fill out the form correctly except do not enter your First Name. Try to Submit, and verify there is an error message.
 
-Please fill out the form correctly except do not enter your Last Name. Try to Submit, and verify there is an error message.
+- Please fill out the form correctly except do not enter your Last Name. Try to Submit, and verify there is an error message.
 
-Please fill out the form correctly except do not enter your email address, or enter an invalid email address. Try to Submit, and verify there is an error message.
+- Please fill out the form correctly except do not enter your email address, or enter an invalid email address. Try to Submit, and verify there is an error message.
 
-__Social Links__
+### Social Links
 
-Click on the Facebook, Twitter, Youtube and Instagram Icon in the footer and confirm it opens up the correct social page in a new tab.
+- Click on the Facebook, Twitter, Youtube and Instagram Icon in the footer and confirm it opens up the correct social page in a new tab.
 
 
 ### Validator Testing
