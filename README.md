@@ -4,7 +4,7 @@
 - The website provides information to the user on what we offer, where we offer it and how we offer it. This will then give them all the information they need to decide whether or not they want to register their interest with us.
 
 
-![Responsive Mockup](./ReadMe/ui.dev_amiresponsive_url%3Dhttps___philtipping31.github.io_PP1-TheGuitarGurus_.png)
+![Responsive Mockup](./readme/ui.dev_amiresponsive_url%3Dhttps___philtipping31.github.io_PP1-TheGuitarGurus_.png)
 
 ## Features
 
