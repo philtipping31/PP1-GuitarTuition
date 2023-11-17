@@ -18,6 +18,7 @@
 ![Nav Bar](./readme/nav-bar-full.png)
 
 __Nav Bar for Phone view__
+
 ![Nav Bar Phone](./readme/nav-bar-phone.png)
 
 
