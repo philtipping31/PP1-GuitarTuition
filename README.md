@@ -122,9 +122,9 @@ __The Footer__
 - CSS
   - No errors were found when passing through the official [W3C CSS Validation Service]
 - Lighthouse
-  - I ran my project through lighthouse to ensure the accessbibility level was to a high standard. I feel the perfromance was lower due to larger images processing.
+  - I ran my project through lighthouse to ensure the accessibility level was to a high standard on all pages. I feel the perfromance was lower due to larger images processing.
 
-![Lighthouse reading]
+![Lighthouse reading](./readme/lighthouse.png)
 
 
 ## Deployment
