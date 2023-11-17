@@ -121,6 +121,10 @@ __The Footer__
   - Checked all pages through the official [W3C validator] - I had issues with trailing slashes which CodeAnywhere seemed to add when saving and auto formatting. Also 2 warings regarding the possible misuse of aria-labels on images"
 - CSS
   - No errors were found when passing through the official [W3C CSS Validation Service]
+- Lighthouse
+  - I ran my project through lighthouse to ensure the accessbibility level was to a high standard. I feel the perfromance was lower due to larger images processing.
+
+![Lighthouse reading]
 
 
 ## Deployment

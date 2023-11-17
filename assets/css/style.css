@@ -139,6 +139,8 @@ main {
     position: absolute;
     bottom: 20px;
     right: 20px;
+    padding: 20px;
+    font-size: 90%;
 }
 
 
@@ -369,7 +371,7 @@ footer {
     }
 
     #welcome {
-        font-size: 200%;
+        font-size: 150%;
     }
 
 }
