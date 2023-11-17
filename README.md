@@ -8,7 +8,7 @@
 
 ## Features
 
-- __Navigation Bar__
+__Navigation Bar__
 
   - Featured on all pages, it is responsive to different screen sizes. For smaller devices the menu is located in a hamburger icon to the left, clicking this shows the drop down.
   - Larger screens will show the menu to the right in full text. 
@@ -22,7 +22,7 @@ __Nav Bar for Phone view__
 ![Nav Bar Phone](./readme/nav-bar-phone.png)
 
 
-- __The landing page image__
+__The landing page image__
 
   - The landing "Hero" image shows a black and white photo of someone playing the guitar with overlay text. This seperates the nav bar with the main content allowing flow and ease of reading on the website. 
   - This image is also shown on the "Locations" page for consistency on the web page.
@@ -31,7 +31,7 @@ __Nav Bar for Phone view__
 
 ![Landing Page](./readme/landing-page.png)
 
-- __About Us section__
+__About Us section__
 
 - The about us section is visibile on the landing page, clearly stating what the website is about and what it offers the reader. This helps the user know if they are in the right place for what they are wanting to achieve based on their search.
 
@@ -64,7 +64,7 @@ __The Footer__
 ![Locations](./readme/locations.png)
 
 
-- ### Register Your Interest
+### Register Your Interest
 
 - This page has a form where anyone who is interested in signing up for lessons can fill in and submit. It has a mixture of text and radio button options which have been colured accordingly to the style. 
 - The main "Get in Touch" button has a hover affect showing the user that is interactive.
