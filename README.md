@@ -15,7 +15,9 @@
   - The navigation bar includes links to the Home page, Locations Page, Register page and quick link to the contact us section on the footer og the home page. The nav bar is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar]
+![Nav Bar](./readme/nav-bar-full.png)
+![Nav Bar Phone](./readme/nav-bar-phone.png)
+
 
 - __The landing page image__
 
@@ -24,13 +26,13 @@
   - The nav bar on mobile and larger screens shows the user the page they are on with an underline on the text.
   - On larger screens users can hover over a link which will underline temporarily showing them they can interact with the link.
 
-![Landing Page]
+![Landing Page](./readme/landing-page.png)
 
 - __About Us section__
 
 - The about us section is visibile on the landing page, clearly stating what the website is about and what it offers the reader. This helps the user know if they are in the right place for what they are wanting to achieve based on their search.
 
-![About us]
+![About us](./readme/about-us.png)
 
  __Home Page images__
 
@@ -40,14 +42,14 @@ __Overview__
   
 - This section shows in a responsive grid view with icons and text. These are short and snappy bits of information to show the reader some important aspects of the Guitar Guru's and what they offer. 
 
-![Overview]
+![Overview](./readme/overview.png)
 
 __The Footer__
 
   - The footer section includes links to the relevant social media sites for The Guitar Guru's website. The links will open to a new tab to allow easy navigation for the user.
   - The footer is allowsthe user to see coomin icons and encourages them to keep connected via differen social media platforms.
 
-![Footer]
+![Footer](./readme/footer.png)
 
   ## Other Pages
   
@@ -56,7 +58,7 @@ __The Footer__
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
   - This section will be updated as these times change to keep the user up to date.
 
-![Locations]
+![Locations](./readme/locations.png)
 
 
 - ### Register Your Interest
@@ -65,7 +67,7 @@ __The Footer__
 - The main "Get in Touch" button has a hover affect showing the user that is interactive.
 - 
 
-![Form]
+![Form](./readme/form.png)
 
 ### Features Left to Implement
 
