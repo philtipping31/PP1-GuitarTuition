@@ -1,7 +1,7 @@
 # The Guitar Guru's
 
-- The Guitar Guru's website is a responsive website including all skills learnt throughout the course so far. It is a modern website that is providing a service for people that are interested in the learning the guitar. It is advertised for all ages and abilities. It also offers a mixture of in person and online lessons to suit all customers.
-- The website provides information to the user on what we offer, where we offer it and how we offer it. This will then give them all the information they need to decide whether or not they want to register their interest with us.
+  The Guitar Guru's website is a responsive website including all skills learnt throughout the course so far. It is a modern website that is providing a service for people that are interested in the learning the guitar. It is advertised for all ages and abilities. It also offers a mixture of in person and online lessons to suit all customers.
+  The website provides information to the user on what we offer, where we offer it and how we offer it. This will then give them all the information they need to decide whether or not they want to register their interest with us.
 
 
 ![Responsive Mockup](./readme/amiresponsive.png)
@@ -31,11 +31,13 @@ __The landing page image__
 
 ![Landing Page](./readme/landing-page.png)
 
+
 __About Us section__
 
 - The about us section is visibile on the landing page, clearly stating what the website is about and what it offers the reader. This helps the user know if they are in the right place for what they are wanting to achieve based on their search.
 
 ![About us](./readme/about-us.png)
+
 
  __Home Page images__
 
@@ -47,12 +49,14 @@ __Overview__
 
 ![Overview](./readme/overview.png)
 
+
 __The Footer__
 
   - The footer section includes links to the relevant social media sites for The Guitar Guru's website. The links will open to a new tab to allow easy navigation for the user.
   - The footer is allowsthe user to see coomin icons and encourages them to keep connected via differen social media platforms.
 
 ![Footer](./readme/footer.png)
+
 
   ## Other Pages
   
@@ -64,6 +68,7 @@ __The Footer__
 ![Locations](./readme/locations.png)
 
 
+
 ### Register Your Interest
 
 - This page has a form where anyone who is interested in signing up for lessons can fill in and submit. It has a mixture of text and radio button options which have been colured accordingly to the style. 
@@ -72,10 +77,10 @@ __The Footer__
 
 ![Form](./readme/form.png)
 
+
 ### Features Left to Implement
 
 - I'd like to make the locations page more interactive, taking the user to a dedicated page for the specific location they selected. This would then show them more detail around the location, including: Address, Contact Details, Tutors details. 
-- 
 
 ## Testing
 
