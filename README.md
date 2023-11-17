@@ -112,7 +112,7 @@ __The Footer__
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]
+  - Checked all pages through the official [W3C validator] - I had issues with trailing slashes which CodeAnywhere seemed to add when saving and auto formatting. Also 2 warings regarding the possible misuse of aria-labels on images"
 - CSS
   - No errors were found when passing through the official [W3C CSS Validation Service]
 
