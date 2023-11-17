@@ -41,7 +41,7 @@ __About Us section__
 
  __Home Page images__
 
-- Keeping with the theme of black and white images on the home page. I used full width images as a background affeect to break up sections to improve user experience and readability on the website.
+- Keeping with the theme of black and white images on the home page. I used full width images as a background effect to break up sections to improve user experience and readability on the website.
 
 __Overview__
   
