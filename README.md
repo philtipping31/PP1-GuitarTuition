@@ -16,6 +16,8 @@
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar](./readme/nav-bar-full.png)
+
+__Nav Bar for Phone view__
 ![Nav Bar Phone](./readme/nav-bar-phone.png)
 
 
@@ -127,9 +129,6 @@ The live link can be found here - ![The Guitar Guru's] (https://philtipping31.gi
 
 ## Credits
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 - I used [Figma](https://www.figma.com/google-fonts/montserrat-font-pairings/) to help with good font pairing options.
 - My Mentor Alex Ford for giving great advise on different ways to implement images via view height. And just all round assitance.
