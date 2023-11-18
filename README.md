@@ -158,6 +158,7 @@ The live link can be found here - ![The Guitar Guru's] (https://philtipping31.gi
 - My Mentor Alex Ford for giving great advise on different ways to implement images via view height. And just all round assitance.
 - Other students and community leaders on Slack
 - I gained some inspiration on how to display by website from the web page ![truefire.com] (https://truefire.com/online-guitar-lessons)
+- Use of websites such as [w3Schools](https://www.w3schools.com/) helped me with fixing aspects of the website and also how to implement code I was unsure of.
 
 
 ### Content
