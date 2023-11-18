@@ -157,11 +157,12 @@ The live link can be found here - ![The Guitar Guru's] (https://philtipping31.gi
 - I used [Figma](https://www.figma.com/google-fonts/montserrat-font-pairings/) to help with good font pairing options.
 - My Mentor Alex Ford for giving great advise on different ways to implement images via view height. And just all round assitance.
 - Other students and community leaders on Slack
+- I gained some inspiration on how to display by website from the web page ![truefire.com] (https://truefire.com/online-guitar-lessons/?utm_term=guitar%20lessons&utm_campaign=Online+Guitar+Lessons+-+Replicated+-+UK&utm_source=google&utm_medium=cpc&hsa_acc=9589530031&hsa_cam=14740177339&hsa_grp=130444483431&hsa_ad=547685075195&hsa_src=g&hsa_tgt=kwd-11352981&hsa_kw=guitar%20lessons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gGdU0s-uYZViomrv_g9EVm9Z_DeIjFZRsUN6Lk-9Dovwl2dpYMDQMaAqR6EALw_wcB)
 
 
 ### Content
 
-- The images were taken from both ![Pixabay] and ![Pexels]
+- The images were taken from both ![Pixabay](https://pixabay.com/) and ![Pexels](https://www.pexels.com/search/guitarist/)
 - Instructions on how to implement the grids for the overview and locations were from ![W3schools] (https://www.w3schools.com/css/css_grid.asp)
 - The icons througout the site were taken from [Font Awesome](https://fontawesome.com/)
 
